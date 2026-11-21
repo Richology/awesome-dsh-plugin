@@ -1,0 +1,7 @@
+url: https://github.com/Richology/dsh-session-delete
+name: Richology/dsh-session-delete
+category: session
+description:
+  en: Adds a confirmation dialog for permanently deleting sidebar sessions in DSH Desktop 0.2.2-rc.5 on macOS.
+  zh: 在 macOS 版 DSH 0.2.2-rc.5 的侧边栏会话菜单中添加永久删除操作和确认框。
+tarball: https://github.com/Richology/dsh-session-delete/releases/download/v1.1.0/dsh-session-delete-1.1.0.tgz
